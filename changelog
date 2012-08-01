@@ -1,0 +1,362 @@
+webkit-snapshot (124196) unstable; urgency=low
+
+  * New snapshot.
+
+ -- Lauro Moura <lauro.neto@openbossa.org>  Tue, 31 Jul 2012 10:47:54 -0300
+
+webkit-snapshot (122844) unstable; urgency=low
+
+  * New snapshot.
+  * Temporarily removed have XCOMPOSITE check to avoid breakage
+    building on sbox.
+
+ -- Lauro Moura <lauro.neto@openbossa.org>  Tue, 17 Jul 2012 12:24:54 -0300
+
+webkit-snapshot (121707) oneiric; urgency=low
+
+  * New snapshot.
+
+ -- Lauro Moura <lauro.neto@openbossa.org>  Mon, 02 Jul 2012 18:53:37 -0300
+
+webkit-snapshot (121676) oneiric; urgency=low
+
+  * New snapshot.
+
+ -- Lauro Moura <lauro.neto@openbossa.org>  Mon, 02 Jul 2012 11:50:46 -0300
+
+webkit-snapshot (121578) oneiric; urgency=low
+
+  * New snapshot.
+
+ -- Lauro Moura <lauro.neto@openbossa.org>  Fri, 29 Jun 2012 16:27:18 -0300
+
+webkit-snapshot (121378) oneiric; urgency=low
+
+  * New snapshot.
+
+ -- Lauro Moura <lauro.neto@openbossa.org>  Wed, 27 Jun 2012 20:17:11 -0300
+
+webkit-snapshot (120847) oneiric; urgency=low
+
+  * New snapshot.
+  * Updated qt dependency.
+
+ -- Lauro Moura <lauro.neto@openbossa.org>  Wed, 20 Jun 2012 16:57:50 -0300
+
+webkit-snapshot (120835) oneiric; urgency=low
+
+  * New snapshot.
+
+ -- Lauro Moura <lauro.neto@openbossa.org>  Wed, 20 Jun 2012 15:34:05 -0300
+
+webkit-snapshot (120339) unstable; urgency=low
+
+  * New version.
+
+ -- Luciano Wolf <luciano.wolf@openbossa.org>  Thu, 14 Jun 2012 14:49:41 -0300
+
+webkit-snapshot (120199) unstable; urgency=low
+
+  * New version.
+
+ -- Luciano Wolf <luciano.wolf@openbossa.org>  Wed, 13 Jun 2012 10:05:20 -0300
+
+webkit-snapshot (119593) unstable; urgency=low
+
+  * New snapshot.
+
+ -- Luciano Wolf <luciano.wolf@openbossa.org>  Wed, 06 Jun 2012 14:35:29 -0300
+
+webkit-snapshot (118701) oneiric; urgency=low
+
+  * New snapshot.
+
+ -- Lauro Moura <lauro.neto@openbossa.org>  Mon, 28 May 2012 16:26:22 -0300
+
+webkit-snapshot (118698) oneiric; urgency=low
+
+  * New snapshot.
+
+ -- Lauro Moura <lauro.neto@openbossa.org>  Mon, 28 May 2012 15:47:46 -0300
+
+webkit-snapshot (118697) oneiric; urgency=low
+
+  * New snapshot.
+
+ -- Lauro Moura <lauro.neto@openbossa.org>  Mon, 28 May 2012 15:05:17 -0300
+
+webkit-snapshot (116757) oneiric; urgency=low
+
+  * New snapshot.
+
+ -- Lauro Moura <lauro.neto@openbossa.org>  Fri, 11 May 2012 10:36:37 -0300
+
+webkit-snapshot (116645) oneiric; urgency=low
+
+  * New snapshot.
+
+ -- Lauro Moura <lauro.neto@openbossa.org>  Thu, 10 May 2012 12:51:37 -0300
+
+webkit-snapshot (116639) oneiric; urgency=low
+
+  * New snapshot.
+
+ -- Lauro Moura <lauro.neto@openbossa.org>  Thu, 10 May 2012 11:38:38 -0300
+
+webkit-snapshot (116578) oneiric; urgency=low
+
+  * New snapshot.
+
+ -- Lauro Moura <lauro.neto@openbossa.org>  Wed, 09 May 2012 21:20:52 -0300
+
+webkit-snapshot (116569) oneiric; urgency=low
+
+  * New snapshot.
+
+ -- Lauro Moura <lauro.neto@openbossa.org>  Wed, 09 May 2012 20:07:26 -0300
+
+webkit-snapshot (116429) oneiric; urgency=low
+
+  * New snapshot.
+
+ -- Lauro Moura <lauro.neto@openbossa.org>  Tue, 08 May 2012 13:46:27 -0300
+
+webkit-snapshot (116416) oneiric; urgency=low
+
+  * New snapshot.
+
+ -- Lauro Moura <lauro.neto@openbossa.org>  Tue, 08 May 2012 11:31:04 -0300
+
+webkit-snapshot (116352) oneiric; urgency=low
+
+  * New snapshot.
+
+ -- Lauro Moura <lauro.neto@openbossa.org>  Mon, 07 May 2012 18:21:13 -0300
+
+webkit-snapshot (116318) oneiric; urgency=low
+
+  * New snapshot.
+
+ -- Lauro Moura <lauro.neto@openbossa.org>  Mon, 07 May 2012 14:52:13 -0300
+
+webkit-snapshot (113677b2) unstable; urgency=low
+
+  * New snapshot.
+
+ -- Lauro Moura <lauro.neto@openbossa.org>  Tue, 10 Apr 2012 19:09:02 -0300
+
+webkit-snapshot (113208) oneiric; urgency=low
+
+  * New snapshot.
+
+ -- Lauro Moura <lauro.neto@openbossa.org>  Wed, 04 Apr 2012 14:49:27 -0300
+
+webkit-snapshot (113041) oneiric; urgency=low
+
+  * New snapshot.
+
+ -- Lauro Moura <lauro.neto@openbossa.org>  Tue, 03 Apr 2012 12:52:42 -0300
+
+webkit-snapshot (113030) oneiric; urgency=low
+
+  * New snapshot.
+
+ -- Lauro Moura <lauro.neto@openbossa.org>  Tue, 03 Apr 2012 11:39:23 -0300
+
+webkit-snapshot (112692) oneiric; urgency=low
+
+  * New snapshot.
+
+ -- Lauro Moura <lauro.neto@openbossa.org>  Fri, 30 Mar 2012 15:05:53 -0300
+
+webkit-snapshot (112680) oneiric; urgency=low
+
+  * New snapshot.
+
+ -- Lauro Moura <lauro.neto@openbossa.org>  Fri, 30 Mar 2012 13:59:09 -0300
+
+webkit-snapshot (112294) oneiric; urgency=low
+
+  * New snapshot.
+
+ -- Lauro Moura <lauro.neto@openbossa.org>  Tue, 27 Mar 2012 16:32:54 -0300
+
+webkit-snapshot (111859) oneiric; urgency=low
+
+  * New snapshot.
+
+ -- Lauro Moura <lauro.neto@openbossa.org>  Fri, 23 Mar 2012 11:33:57 -0300
+
+webkit-snapshot (111734) oneiric; urgency=low
+
+  * New snapshot.
+
+ -- Lauro Moura <lauro.neto@openbossa.org>  Thu, 22 Mar 2012 15:31:14 -0300
+
+webkit-snapshot (111587) oneiric; urgency=low
+
+  * New snapshot.
+
+ -- Lauro Moura <lauro.neto@openbossa.org>  Wed, 21 Mar 2012 16:21:18 -0300
+
+webkit-snapshot (111546) oneiric; urgency=low
+
+  * New snapshot.
+
+ -- Lauro Moura <lauro.neto@openbossa.org>  Wed, 21 Mar 2012 12:30:07 -0300
+
+webkit-snapshot (111443) oneiric; urgency=low
+
+  * New snapshot.
+
+ -- Lauro Moura <lauro.neto@openbossa.org>  Tue, 20 Mar 2012 19:05:20 -0300
+
+webkit-snapshot (111414) oneiric; urgency=low
+
+  * New snapshot.
+
+ -- Lauro Moura <lauro.neto@openbossa.org>  Tue, 20 Mar 2012 15:22:31 -0300
+
+webkit-snapshot (111254) oneiric; urgency=low
+
+  * New snapshot.
+
+ -- Lauro Moura <lauro.neto@openbossa.org>  Mon, 19 Mar 2012 19:05:48 -0300
+
+webkit-snapshot (111226) oneiric; urgency=low
+
+  * New snapshot.
+
+ -- Lauro Moura <lauro.neto@openbossa.org>  Mon, 19 Mar 2012 17:35:17 -0300
+
+webkit-snapshot (110885) oneiric; urgency=low
+
+  * New snapshot.
+
+ -- Lauro Moura <lauro.neto@openbossa.org>  Thu, 15 Mar 2012 18:32:20 -0300
+
+webkit-snapshot (110863) oneiric; urgency=low
+
+  * New snapshot.
+
+ -- Lauro Moura <lauro.neto@openbossa.org>  Thu, 15 Mar 2012 15:27:34 -0300
+
+webkit-snapshot (110861) oneiric; urgency=low
+
+  * New snapshot.
+
+ -- Lauro Moura <lauro.neto@openbossa.org>  Thu, 15 Mar 2012 14:47:52 -0300
+
+webkit-snapshot (110585) oneiric; urgency=low
+
+  * New snapshot.
+
+ -- Lauro Moura <lauro.neto@openbossa.org>  Tue, 13 Mar 2012 16:06:46 -0300
+
+webkit-snapshot (110464) oneiric; urgency=low
+
+  * New snapshot.
+
+ -- Lauro Moura <lauro.neto@openbossa.org>  Mon, 12 Mar 2012 17:36:03 -0300
+
+webkit-snapshot (110307) oneiric; urgency=low
+
+  * New snapshot.
+
+ -- Lauro Moura <lauro.neto@openbossa.org>  Fri, 09 Mar 2012 17:03:38 -0300
+
+webkit-snapshot (110301) oneiric; urgency=low
+
+  * New snapshot.
+
+ -- Lauro Moura <lauro.neto@openbossa.org>  Fri, 09 Mar 2012 14:48:32 -0300
+
+webkit-snapshot (110176) oneiric; urgency=low
+
+  * New snapshot.
+
+ -- Lauro Moura <lauro.neto@openbossa.org>  Thu, 08 Mar 2012 16:08:21 -0300
+
+webkit-snapshot (110061) oneiric; urgency=low
+
+  * New snapshot.
+
+ -- Lauro Moura <lauro.neto@openbossa.org>  Wed, 07 Mar 2012 14:27:19 -0300
+
+webkit-snapshot (109934) oneiric; urgency=low
+
+  * New snapshot.
+
+ -- Lauro Moura <lauro.neto@openbossa.org>  Tue, 06 Mar 2012 15:44:12 -0300
+
+webkit-snapshot (109932) oneiric; urgency=low
+
+  * New snapshot.
+
+ -- Lauro Moura <lauro.neto@openbossa.org>  Tue, 06 Mar 2012 15:09:02 -0300
+
+webkit-snapshot (109925) oneiric; urgency=low
+
+  * New snapshot.
+
+ -- Lauro Moura <lauro.neto@openbossa.org>  Tue, 06 Mar 2012 14:02:19 -0300
+
+webkit-snapshot (109923) oneiric; urgency=low
+
+  * New snapshot.
+
+ -- Lauro Moura <lauro.neto@openbossa.org>  Tue, 06 Mar 2012 13:53:46 -0300
+
+webkit-snapshot (109582) oneiric; urgency=low
+
+  * New snapshot.
+
+ -- Lauro Moura <lauro.neto@openbossa.org>  Fri, 02 Mar 2012 14:42:52 -0300
+
+webkit-snapshot (109580) oneiric; urgency=low
+
+  * New snapshot.
+
+ -- Lauro Moura <lauro.neto@openbossa.org>  Fri, 02 Mar 2012 13:46:40 -0300
+
+webkit-snapshot (109105) unstable; urgency=low
+
+  * New snapshot.
+
+ -- Lauro Moura <lauro.neto@openbossa.org>  Tue, 28 Feb 2012 13:11:16 -0300
+
+webkit-snapshot (109021) unstable; urgency=low
+
+  * New snapshot.
+
+ -- Lauro Moura <lauro.neto@openbossa.org>  Mon, 27 Feb 2012 18:51:54 -0300
+
+webkit-snapshot (108658) unstable; urgency=low
+
+  * New snapshot.
+
+ -- Lauro Moura <lauro.neto@openbossa.org>  Thu, 23 Feb 2012 17:48:09 -0300
+
+webkit-snapshot (107919) unstable; urgency=low
+
+  * New snapshot.
+
+ -- Lauro Moura <lauro.neto@openbossa.org>  Thu, 16 Feb 2012 12:24:51 +0100
+
+webkit-snapshot (107572) unstable; urgency=low
+
+  * New snapshot.
+
+ -- Lauro Moura <lauro.neto@openbossa.org>  Mon, 13 Feb 2012 16:35:17 +0100
+
+webkit-snapshot (107109) unstable; urgency=low
+
+  * New snapshot.
+
+ -- Lauro Moura <lauro.neto@openbossa.org>  Wed, 08 Feb 2012 18:03:39 -0300
+
+webkit-snapshot (106839) unstable; urgency=low
+
+  * Initial Release.
+
+ -- Lauro Moura <lauro.neto@openbossa.org>  Thu, 02 Feb 2012 15:02:41 -0300

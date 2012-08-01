@@ -1,0 +1,33 @@
+#!/usr/bin/make -f
+# -*- makefile -*-
+# Sample debian/rules that uses debhelper.
+# This file was originally written by Joey Hess and Craig Small.
+# As a special exception, when this file is copied by dh-make into a
+# dh-make output file, you may use that output file without restriction.
+# This special exception was added by Craig Small in version 0.37 of dh-make.
+
+# Uncomment this to turn on verbose mode.
+export DH_VERBOSE=1
+
+PATH := /opt/qt5/bin:/usr/bin:$(PATH)
+SBOX_REDIRECT_IGNORE := $(SBOX_REDIRECT_IGNORE):/usr/bin/perl
+
+export PATH SBOX_REDIRECT_IGNORE
+
+%:
+	dh $@ 
+
+override_dh_auto_build:
+	$(CURDIR)/Tools/Scripts/build-webkit --qt --release --makeargs="-j9" --qmakearg="CONFIG+=use_qt_mobile_theme"
+
+override_dh_auto_install:
+	make -C $(CURDIR)/WebKitBuild/Release/ install INSTALL_ROOT=$(CURDIR)/debian/tmp/
+
+override_dh_auto_clean:
+	rm -rf WebKitBuild
+
+override_dh_auto_strip:
+
+override_dh_strip:
+
+
