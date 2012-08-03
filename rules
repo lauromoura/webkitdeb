@@ -18,7 +18,7 @@ export PATH SBOX_REDIRECT_IGNORE
 	dh $@ 
 
 override_dh_auto_build:
-	$(CURDIR)/Tools/Scripts/build-webkit --qt --release --makeargs="-j9" --qmakearg="CONFIG+=use_qt_mobile_theme"
+	$(CURDIR)/Tools/Scripts/build-webkit --qt --release --makeargs="-j5" --qmakearg="CONFIG+=use_qt_mobile_theme"
 
 override_dh_auto_install:
 	make -C $(CURDIR)/WebKitBuild/Release/ install INSTALL_ROOT=$(CURDIR)/debian/tmp/
