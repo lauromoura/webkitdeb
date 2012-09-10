@@ -1,7 +1,7 @@
 Source: webkit-snapshot
 Priority: extra
 Maintainer: Lauro Moura <lauro.neto@openbossa.org>
-Build-Depends: debhelper (>= 8.0.0), cmake, qt5-base (>= 5.0.0~20120725)
+Build-Depends: debhelper (>= 8.0.0), cmake, qt5-base (= 5.0.0~20120725)
 Standards-Version: 3.9.2
 Section: libs
 Homepage: http://www.webkit.org
@@ -9,6 +9,6 @@ Homepage: http://www.webkit.org
 Package: webkit-snapshot
 Section: libs
 Architecture: any
-Depends: ${shlibs:Depends}, ${misc:Depends}, qt5-base (>= 5.0.0~20120725), qt5-declarative (>= 5.0.0~20120725), qt5-jsbackend (>= 5.0.0~20120725), qt5-location (>= 5.0.0~20120725), qt5-q3d (>= 5.0.0~20120725), qt5-script (>= 5.0.0~20120725), qt5-sensors (>= 5.0.0~20120725), qt5-xmlpatterns (>= 5.0.0~20120725)
+Depends: ${shlibs:Depends}, ${misc:Depends}, qt5-base (= 5.0.0~20120725), qt5-declarative (= 5.0.0~20120725), qt5-jsbackend (= 5.0.0~20120725), qt5-location (= 5.0.0~20120725), qt5-q3d (= 5.0.0~20120725), qt5-script (= 5.0.0~20120725), qt5-sensors (= 5.0.0~20120725), qt5-xmlpatterns (= 5.0.0~20120725)
 Description: WebKit open source browser engine.
  <insert long description, indented with spaces>
